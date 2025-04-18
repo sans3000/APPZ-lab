@@ -1,0 +1,7 @@
+D:\lab cnu\labpat\LabPat\LabPat\bin\Debug\LabPat.exe.config
+D:\lab cnu\labpat\LabPat\LabPat\bin\Debug\LabPat.exe
+D:\lab cnu\labpat\LabPat\LabPat\bin\Debug\LabPat.pdb
+D:\lab cnu\labpat\LabPat\LabPat\obj\Debug\LabPat.csproj.AssemblyReference.cache
+D:\lab cnu\labpat\LabPat\LabPat\obj\Debug\LabPat.csproj.CoreCompileInputs.cache
+D:\lab cnu\labpat\LabPat\LabPat\obj\Debug\LabPat.exe
+D:\lab cnu\labpat\LabPat\LabPat\obj\Debug\LabPat.pdb
